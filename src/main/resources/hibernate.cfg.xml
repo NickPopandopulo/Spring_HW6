@@ -15,5 +15,7 @@
 
         <mapping class="com.geekbrains.ru.springmvcdemo.domain.Category"/>
         <mapping class="com.geekbrains.ru.springmvcdemo.domain.Product"/>
+        <mapping class="com.geekbrains.ru.springmvcdemo.domain.Customer"/>
+        <mapping class="com.geekbrains.ru.springmvcdemo.domain.PurchaseDetails"/>
     </session-factory>
 </hibernate-configuration>
